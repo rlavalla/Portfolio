@@ -1,0 +1,61 @@
+Seeking   an   internship   position   with   ASG   Renaissance  aiming   to   increase   my   software   
+skills   while   being   a valuable   asset   to   the   company.
+
+
+Skills:
+● Python,   Java,   Perl,   JSON,   JavaScript
+● Research   Methodology   and   Troubleshooting
+● Computational   and   Corpus   Linguistics
+● Object   Oriented   Architectures   and   Design   (OOA,   OOD,   OOA/D)
+● Artificial   Intelligence   Neural   Networks
+● Predictive   Models   and   Deep   Learning,   Machine   Learning/Understanding
+● Data   Mining   and   Modeling/Natural   Language   Processing/Sentiment   Analysis
+● Data   Analytics   and   Metrics,   Agile   Software   Development
+● AWS   (EC2   GPU)   Infrastructure   Design,   LINUX/UNIX   Development
+● Project   and   Data   Management,   Eclipse   and   Debugging
+● Configuration   Management   Systems/Principles   (Git)
+● Software   Development   Lifecycle,   Standard   Office   Software
+  
+  
+RESEARCH   PROJECTS:
+
+NLP   Undergraduate   Thesis;   Affective   Demonstrative   Sentiment   Analysis
+Summary:   An   undergraduate   thesis   currently   in   progress   that   is   a   continuation   
+of   my   Political   Twitter Accounts   analysis.   The   goal   of   this   two   year   thesis   
+is   to   create   a   program   that   automatically   detects   affective demonstratives   in   
+Twitter   corpuses,   and   later,   other   forms   of   sentiment.
+
+While   working   on   my   Political   Twitter   Accounts   paper   I   searched   for   a   program
+that   would   sort   through   the Tweets   for   me   to   identify   which   ones   had   affect   
+and   which   did   not,   but   I   only   found   programs   that   work outside   of   Twitter.   
+This   kind   of   sentiment   program   already   exists   for   things   like   academic   papers   
+and   news articles   but   Twitter   semantics   are   so   different   that   their   margin   of   
+error   is   too   high. I   decided   to   create   this   program   specifically   for   Twitter   
+using   Java   and   Python.   Initially   I   made   a   small   model of   750   annotated   Tweets   
+with   the   Java   based   Tweebo   parser   and   marked   the   affect   by   hand.   This   data   
+will later   be   used   to   train   a   larger   corpus   that   will   in   turn   detect   Tweets   
+imputed   from   the   Twitter   pipeline.   After this   is   accomplished,   I’d   like   to   move   
+on   to   other   kinds   of   affect   and   maximum   entropy   models   for   Twitter. The   program   
+can   be   used   to   determine   who   uses   more   emotionally   charged   language   and   why.   
+My   goal   is   that someday   I’ll   be   able   to   use   this   to   create   a   program   that   
+sorts   through   fake   news   on   Twitter.
+
+
+Affective   Demonstratives   in   Political   Twitter   Accounts
+
+Summary:   Research   study   exploring   the   frequencies   of   affective   demonstratives   in   
+political   Twitter   accounts compared   to   the   general   population.   I   am   in   the   
+process   of   submitting   this   paper   for   publication,   and   using   it to   apply   for   
+an   undergraduate   honors   fellowship   this   spring.
+
+The   hypothesis   of   this   paper   was,   “Do   politicians   use   more   emotionally   charged   
+language   than   the   general population?”   I   used   Python   to   pull   100,000   archived   Tweets   
+from   13   political   Twitter   accounts   and   I   sorted and   verified   the   Tweets   by   transferring
+them   to   JSON   files   while   anonymizing   the   ID’s.   I   did   the   same   thing   for the   
+general   population   to   establish   a   randomized   control   sample.   I   then   used   Excel   to   
+create   visual representations   and   graphs   that   would   fit   in   a   large   research   paper   
+to   be   easily   understood   by   non-linguists. An   enormous   amount   of   data   attained   by   
+API   query   response   in   JSON   format   was   required   for   this   project.
+
+Results:   I   discovered   that   politicians   do   use   more   emotionally   charged   language   than
+the   general   population, which   can   be   used   to   elicit   a   stronger   response.
